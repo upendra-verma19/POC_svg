@@ -40,4 +40,16 @@ This project demonstrates three SVG rendering modes in a React + Vite frontend, 
 
 ---
 
+## Start- Frontend
+- cd frontend
+- npm install
+- npm run dev
+
+## Start - Backend
+-cd backend
+-npm install
+-node index.js / npm start
+ 
+
+
 This POC is intentionally minimal for easy explanation and review.
